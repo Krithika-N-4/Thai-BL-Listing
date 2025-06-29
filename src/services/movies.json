@@ -1,0 +1,849 @@
+[
+  {
+    "id": 1,
+    "name": "Love Sick",
+    "release_date": "2015-08-17",
+    "poster_url": "https://i.mydramalist.com/pdn2nr_4c.jpg?v=1",
+    "rating": 7.5
+  },
+  {
+    "id": 2,
+    "name": "Love Sick 2",
+    "release_date": "2015-11-23",
+    "poster_url": "https://i.mydramalist.com/X26Egc.jpg?v=1",
+    "rating": 7.6
+  },
+  {
+    "id": 3,
+    "name": "Make It Right",
+    "release_date": "2016-08-16",
+    "poster_url": "https://i.mydramalist.com/lOKnvc.jpg?v=1",
+    "rating": 7.1
+  },
+  {
+    "id": 4,
+    "name": "SOTUS",
+    "release_date": "2016-08-20",
+    "poster_url": "https://i.mydramalist.com/PdLnLc.jpg?v=1",
+    "rating": 7.9
+  },
+  {
+    "id": 5,
+    "name": "Make It Right 2",
+    "release_date": "2017-07-10",
+    "poster_url": "https://i.mydramalist.com/ENO3z_4c.jpg?v=1",
+    "rating": 7.3
+  },
+  {
+    "id": 6,
+    "name": "SOTUS S",
+    "release_date": "2017-11-18",
+    "poster_url": "https://i.mydramalist.com/kP1zb_4c.jpg?v=1",
+    "rating": 7.9
+  },
+  {
+    "id": 7,
+    "name": "Water Boyy",
+    "release_date": "2017-02-23",
+    "poster_url": "https://i.mydramalist.com/kXrVbc.jpg?v=1",
+    "rating": 6.8
+  },
+  {
+    "id": 8,
+    "name": "Love By Chance",
+    "release_date": "2018-08-11",
+    "poster_url": "https://i.mydramalist.com/kkxobc.jpg?v=1",
+    "rating": 7.6
+  },
+  {
+    "id": 9,
+    "name": "Together With Me",
+    "release_date": "2018-01-12",
+    "poster_url": "https://i.mydramalist.com/jPPwz_4c.jpg?v=1",
+    "rating": 7.7
+  },
+  {
+    "id": 10,
+    "name": "Together With Me: The Next Chapter",
+    "release_date": "2018-05-25",
+    "poster_url": "https://i.mydramalist.com/4wn36c.jpg?v=1",
+    "rating": 7.5
+  },
+  {
+    "id": 11,
+    "name": "My Dear Loser: Edge of 17",
+    "release_date": "2018-03-14",
+    "poster_url": "https://i.mydramalist.com/Z4jeqc.jpg?v=1",
+    "rating": 7.3
+  },
+  {
+    "id": 12,
+    "name": "Our Skyy",
+    "release_date": "2018-11-23",
+    "poster_url": "https://i.mydramalist.com/yEK73c.jpg?v=1",
+    "rating": 7.6
+  },
+  {
+    "id": 13,
+    "name": "Until We Meet Again",
+    "release_date": "2019-11-09",
+    "poster_url": "https://i.mydramalist.com/WBDBPc.jpg?v=1",
+    "rating": 7.5
+  },
+  {
+    "id": 14,
+    "name": "Theory of Love",
+    "release_date": "2019-05-31",
+    "poster_url": "https://i.mydramalist.com/WmPJ3c.jpg?v=1",
+    "rating": 7.8
+  },
+  {
+    "id": 15,
+    "name": "TharnType: The Series",
+    "release_date": "2019-10-07",
+    "poster_url": "https://i.mydramalist.com/0bejEc.jpg?v=1",
+    "rating": 7.7
+  },
+  {
+    "id": 16,
+    "name": "Dark Blue Kiss",
+    "release_date": "2019-10-25",
+    "poster_url": "https://i.mydramalist.com/1qAozc.jpg?v=1",
+    "rating": 7.9
+  },
+  {
+    "id": 17,
+    "name": "He's Coming To Me",
+    "release_date": "2019-08-07",
+    "poster_url": "https://i.mydramalist.com/kYJOdc.jpg?v=1",
+    "rating": 8.1
+  },
+  {
+    "id": 18,
+    "name": "What The Duck",
+    "release_date": "2019-01-18",
+    "poster_url": "https://i.mydramalist.com/6yyJPc.jpg?v=1",
+    "rating": 5.7
+  },
+  {
+    "id": 19,
+    "name": "2gether: The Series",
+    "release_date": "2020-02-21",
+    "poster_url": "https://i.mydramalist.com/2qkedc.jpg?v=1",
+    "rating": 7.7
+  },
+  {
+    "id": 20,
+    "name": "My Engineer",
+    "release_date": "2020-03-13",
+    "poster_url": "https://i.mydramalist.com/ZvOWYc.jpg?v=1",
+    "rating": 7.6
+  },
+  {
+    "id": 21,
+    "name": "Still 2gether",
+    "release_date": "2020-08-14",
+    "poster_url": "https://i.mydramalist.com/wzXqb_4c.jpg?v=1",
+    "rating": 7.9
+  },
+  {
+    "id": 22,
+    "name": "Why R U?",
+    "release_date": "2020-01-24",
+    "poster_url": "https://i.mydramalist.com/j84Azc.jpg?v=1",
+    "rating": 7.6
+  },
+  {
+    "id": 23,
+    "name": "I Told Sunset About You",
+    "release_date": "2020-10-22",
+    "poster_url": "https://i.mydramalist.com/dQdEW_4c.jpg?v=1",
+    "rating": 8.1
+  },
+  {
+    "id": 24,
+    "name": "My Gear and Your Gown",
+    "release_date": "2020-09-21",
+    "poster_url": "https://i.mydramalist.com/QPWPA_4c.jpg?v=1",
+    "rating": 7.1
+  },
+  {
+    "id": 25,
+    "name": "Tonhon Chonlatee",
+    "release_date": "2020-10-09",
+    "poster_url": "https://i.mydramalist.com/EZlKQ_4c.jpg?v=1",
+    "rating": 6.8
+  },
+  {
+    "id": 26,
+    "name": "TharnType Season 2: 7 Years of Love",
+    "release_date": "2020-11-06",
+    "poster_url": "https://i.mydramalist.com/v31lB_4c.jpg?v=1",
+    "rating": 7.5
+  },
+  {
+    "id": 27,
+    "name": "En of Love: Love Mechanics",
+    "release_date": "2020-02-13",
+    "poster_url": "https://i.mydramalist.com/RkQxPc.jpg?v=1",
+    "rating": 7.4
+  },
+  {
+    "id": 28,
+    "name": "En of Love: TOSSARA",
+    "release_date": "2020-04-09",
+    "poster_url": "https://i.mydramalist.com/XvPrZc.jpg?v=1",
+    "rating": 6.5
+  },
+  {
+    "id": 29,
+    "name": "En of Love: This Is Love Story",
+    "release_date": "2020-05-14",
+    "poster_url": "https://i.mydramalist.com/0vjOkc.jpg?v=1",
+    "rating": 7.0
+  },
+  {
+    "id": 30,
+    "name": "Manner of Death",
+    "release_date": "2020-11-30",
+    "poster_url": "https://i.mydramalist.com/0eAy7_4c.jpg?v=1",
+    "rating": 8.2
+  },
+  {
+    "id": 31,
+    "name": "The Shipper",
+    "release_date": "2020-05-22",
+    "poster_url": "https://i.mydramalist.com/QX0k5c.jpg?v=1",
+    "rating": 7.3
+  },
+  {
+    "id": 32,
+    "name": "A Tale of Thousand Stars",
+    "release_date": "2021-01-29",
+    "poster_url": "https://i.mydramalist.com/jYl8b_4c.jpg?v=1",
+    "rating": 8.5
+  },
+  {
+    "id": 33,
+    "name": "Fish Upon the Sky",
+    "release_date": "2021-04-09",
+    "poster_url": "https://i.mydramalist.com/2Bgzw_4c.jpg?v=1",
+    "rating": 7.7
+  },
+  {
+    "id": 34,
+    "name": "I Promised You the Moon",
+    "release_date": "2021-05-27",
+    "poster_url": "https://i.mydramalist.com/xJjnE_4c.jpg?v=1",
+    "rating": 8.1
+  },
+  {
+    "id": 35,
+    "name": "Don't Say No",
+    "release_date": "2021-08-06",
+    "poster_url": "https://i.mydramalist.com/W8WxD_4c.jpg?v=1",
+    "rating": 7.4
+  },
+  {
+    "id": 36,
+    "name": "Lovely Writer",
+    "release_date": "2021-02-24",
+    "poster_url": "https://i.mydramalist.com/ZPz0L_4c.jpg?v=1",
+    "rating": 8.0
+  },
+  {
+    "id": 37,
+    "name": "55:15 Never Too Late",
+    "release_date": "2021-12-06",
+    "poster_url": "https://i.mydramalist.com/EV3jm_4c.jpg?v=1",
+    "rating": 7.9
+  },
+  {
+    "id": 38,
+    "name": "Be My Favorite",
+    "release_date": "2021-03-12",
+    "poster_url": "https://i.mydramalist.com/kAvOQO_4c.jpg?v=1",
+    "rating": 8.0
+  },
+  {
+    "id": 39,
+    "name": "Bad Buddy",
+    "release_date": "2021-10-29",
+    "poster_url": "https://i.mydramalist.com/kZdb8_4c.jpg?v=1",
+    "rating": 8.3
+  },
+  {
+    "id": 40,
+    "name": "Not Me",
+    "release_date": "2021-08-14",
+    "poster_url": "https://i.mydramalist.com/0kjbY_4c.jpg?v=1",
+    "rating": 8.5
+  },
+  {
+    "id": 41,
+    "name": "Nitiman",
+    "release_date": "2021-02-19",
+    "poster_url": "https://i.mydramalist.com/1j1Ad_4c.jpg?v=1",
+    "rating": 7.1
+  },
+  {
+    "id": 42,
+    "name": "Hometown's Embrace",
+    "release_date": "2021-06-25",
+    "poster_url": "https://i.mydramalist.com/2PVXO_4c.jpg?v=1",
+    "rating": 6.5
+  },
+  {
+    "id": 43,
+    "name": "Kinn Porsche: The Series La Forte",
+    "release_date": "2022-04-02",
+    "poster_url": "https://i.mydramalist.com/rwYeN_4c.jpg?v=1",
+    "rating": 8.0
+  },
+  {
+    "id": 44,
+    "name": "Something in My Room",
+    "release_date": "2022-01-20",
+    "poster_url": "https://i.mydramalist.com/eelvK_4c.jpg?v=1",
+    "rating": 7.5
+  },
+  {
+    "id": 45,
+    "name": "You're My Sky",
+    "release_date": "2022-01-08",
+    "poster_url": "https://i.mydramalist.com/BVD1A_4c.jpg?v=1",
+    "rating": 7.4
+  },
+  {
+    "id": 46,
+    "name": "Between Us",
+    "release_date": "2022-01-23",
+    "poster_url": "https://i.mydramalist.com/r4BRm_4c.jpg?v=1",
+    "rating": 7.8
+  },
+  {
+    "id": 47,
+    "name": "Enchante",
+    "release_date": "2022-01-21",
+    "poster_url": "https://i.mydramalist.com/BOXPV_4c.jpg?v=1",
+    "rating": 7.2
+  },
+  {
+    "id": 48,
+    "name": "Secret Crush On You",
+    "release_date": "2022-02-23",
+    "poster_url": "https://i.mydramalist.com/jBzZB_4c.jpg?v=1",
+    "rating": 7.2
+  },
+  {
+    "id": 49,
+    "name": "Our Days",
+    "release_date": "2022-02-18",
+    "poster_url": "https://i.mydramalist.com/6O3xg_4c.jpg?v=1",
+    "rating": 6.9
+  },
+  {
+    "id": 50,
+    "name": "Cutie Pie",
+    "release_date": "2022-01-29",
+    "poster_url": "https://i.mydramalist.com/XqXNw_4c.jpg?v=1",
+    "rating": 7.6
+  },
+  {
+    "id": 51,
+    "name": "Love Mechanics",
+    "release_date": "2022-04-11",
+    "poster_url": "https://i.mydramalist.com/Wpgxp_4c.jpg?v=1",
+    "rating": 8.1
+  },
+  {
+    "id": 52,
+    "name": "The Eclipse",
+    "release_date": "2022-08-12",
+    "poster_url": "https://i.mydramalist.com/26Nnk_4c.jpg?v=1",
+    "rating": 8.2
+  },
+  {
+    "id": 53,
+    "name": "Oxygen: The Series",
+    "release_date": "2022-09-12",
+    "poster_url": "https://i.mydramalist.com/RJRezc.jpg?v=1",
+    "rating": 7.3
+  },
+  {
+    "id": 54,
+    "name": "Big Dragon",
+    "release_date": "2022-11-19",
+    "poster_url": "https://i.mydramalist.com/wPbOb_4c.jpg?v=1",
+    "rating": 7.2
+  },
+  {
+    "id": 55,
+    "name": "Star in My Mind",
+    "release_date": "2022-05-08",
+    "poster_url": "https://i.mydramalist.com/XD8Yn_4c.jpg?v=1",
+    "rating": 7.5
+  },
+  {
+    "id": 56,
+    "name": "Sky in Your Heart",
+    "release_date": "2022-06-19",
+    "poster_url": "https://i.mydramalist.com/xp6Oz_4c.jpg?v=1",
+    "rating": 7.5
+  },
+  {
+    "id": 57,
+    "name": "Check Out",
+    "release_date": "2022-06-11",
+    "poster_url": "https://i.mydramalist.com/d0QWJ5_4c.jpg?v=1",
+    "rating": 5.6
+  },
+  {
+    "id": 58,
+    "name": "Even Sun",
+    "release_date": "2022-06-11",
+    "poster_url": "https://i.mydramalist.com/QVVr7_4c.jpg?v=1",
+    "rating": 5.6
+  },
+  {
+    "id": 59,
+    "name": "Vice Versa",
+    "release_date": "2022-07-16",
+    "poster_url": "https://i.mydramalist.com/j5LLO_4c.jpg?v=1",
+    "rating": 8.0
+  },
+  {
+    "id": 60,
+    "name": "My School President",
+    "release_date": "2022-12-09",
+    "poster_url": "https://i.mydramalist.com/0Z8Ve_4c.jpg?v=1",
+    "rating": 8.4
+  },
+  {
+    "id": 61,
+    "name": "My Only 12%",
+    "release_date": "2022-08-12",
+    "poster_url": "https://i.mydramalist.com/122nd_4c.jpg?v=1",
+    "rating": 8.0
+  },
+  {
+    "id": 62,
+    "name": "Love in the Air",
+    "release_date": "2022-08-18",
+    "poster_url": "https://i.mydramalist.com/keNeb_4c.jpg?v=1",
+    "rating": 7.1
+  },
+  {
+    "id": 63,
+    "name": "I Will Knock You",
+    "release_date": "2022-11-18",
+    "poster_url": "https://i.mydramalist.com/02EmN_4c.jpg?v=1",
+    "rating": 7.6
+  },
+  {
+    "id": 64,
+    "name": "Never Let Me Go",
+    "release_date": "2022-12-13",
+    "poster_url": "https://i.mydramalist.com/BXzN5_4c.jpg?v=1",
+    "rating": 8.0
+  },
+  {
+    "id": 65,
+    "name": "Coffee Melody",
+    "release_date": "2022-07-18",
+    "poster_url": "https://i.mydramalist.com/QOJwA_4c.jpg?v=1",
+    "rating": 6.3
+  },
+  {
+    "id": 66,
+    "name": "Moonlight Chicken",
+    "release_date": "2023-01-25",
+    "poster_url": "https://i.mydramalist.com/2wrxWW_4c.jpg?v=1",
+    "rating": 8.2
+  },
+  {
+    "id": 67,
+    "name": "Our Skyy 2",
+    "release_date": "2023-04-16",
+    "poster_url": "https://i.mydramalist.com/0wmABe_4c.jpg?v=1",
+    "rating": 7.6
+  },
+  {
+    "id": 68,
+    "name": "Be Mine SuperStar",
+    "release_date": "2023-02-22",
+    "poster_url": "https://i.mydramalist.com/eYwx4e_4c.jpg?v=1",
+    "rating": 6.9
+  },
+  {
+    "id": 69,
+    "name": "Bed Friend",
+    "release_date": "2023-01-14",
+    "poster_url": "https://i.mydramalist.com/2wr4Vw_4c.jpg?v=1",
+    "rating": 7.6
+  },
+  {
+    "id": 70,
+    "name": "La Pluie",
+    "release_date": "2023-05-06",
+    "poster_url": "https://i.mydramalist.com/Bddn86_4c.jpg?v=1",
+    "rating": 7.4
+  },
+  {
+    "id": 71,
+    "name": "Step By Step",
+    "release_date": "2023-04-30",
+    "poster_url": "https://i.mydramalist.com/1wd8Pz_4c.jpg?v=1",
+    "rating": 6.6
+  },
+  {
+    "id": 72,
+    "name": "Only Friends",
+    "release_date": "2023-08-12",
+    "poster_url": "https://i.mydramalist.com/qYnDzQ_4c.jpg?v=1",
+    "rating": 8.0
+  },
+  {
+    "id": 73,
+    "name": "Hidden Agenda",
+    "release_date": "2023-07-16",
+    "poster_url": "https://i.mydramalist.com/RB2Q5Y_4c.jpg?v=1",
+    "rating": 7.3
+  },
+  {
+    "id": 74,
+    "name": "Dangerous Romance",
+    "release_date": "2023-08-11",
+    "poster_url": "https://i.mydramalist.com/d0zg4A_4c.jpg?v=1",
+    "rating": 7.6
+  },
+  {
+    "id": 75,
+    "name": "I Feel You Linger in the Air",
+    "release_date": "2023-08-26",
+    "poster_url": "https://i.mydramalist.com/1w4PO6_4c.jpg?v=1",
+    "rating": 8.3
+  },
+  {
+    "id": 76,
+    "name": "Last Twilight",
+    "release_date": "2023-11-10",
+    "poster_url": "https://i.mydramalist.com/qYq3LP_4c.jpg?v=1",
+    "rating": 8.4
+  },
+  {
+    "id": 77,
+    "name": "Bake Me Please",
+    "release_date": "2023-09-21",
+    "poster_url": "https://i.mydramalist.com/d04J6W_4c.jpg?v=1",
+    "rating": 7.2
+  },
+  {
+    "id": 78,
+    "name": "Middleman's Love",
+    "release_date": "2023-10-27",
+    "poster_url": "https://i.mydramalist.com/vXOOxD_4c.jpg?v=1",
+    "rating": 6.4
+  },
+  {
+    "id": 79,
+    "name": "Naughty Babe",
+    "release_date": "2023-05-27",
+    "poster_url": "https://i.mydramalist.com/0wyxRE_4c.jpg?v=1",
+    "rating": 7.2
+  },
+  {
+    "id": 80,
+    "name": "Pit Babe",
+    "release_date": "2023-11-16",
+    "poster_url": "https://i.mydramalist.com/wJwPqb_4c.jpg?v=1",
+    "rating": 7.7
+  },
+  {
+    "id": 81,
+    "name": "A Boss and a Babe",
+    "release_date": "2023-03-24",
+    "poster_url": "https://i.mydramalist.com/RBBJko_4c.jpg?v=1",
+    "rating": 7.7
+  },
+  {
+    "id": 82,
+    "name": "Cooking Crush",
+    "release_date": "2023-03-24",
+    "poster_url": "https://i.mydramalist.com/eYvAyY_4c.jpg?v=1",
+    "rating": 7.3
+  },
+  {
+    "id": 83,
+    "name": "Cherry Magic",
+    "release_date": "2024-01-06",
+    "poster_url": "https://i.mydramalist.com/jQXrew_4c.jpg?v=1",
+    "rating": 8.0
+  },
+  {
+    "id": 84,
+    "name": "Deep Night",
+    "release_date": "2024-01-25",
+    "poster_url": "https://i.mydramalist.com/1wLPeK_4c.jpg?v=1",
+    "rating": 7.4
+  },
+  {
+    "id": 85,
+    "name": "Only Boo!",
+    "release_date": "2024-03-21",
+    "poster_url": "https://i.mydramalist.com/jQ2jNr_4c.jpg?v=1",
+    "rating": 8.4
+  },
+  {
+    "id": 86,
+    "name": "My Stand-In",
+    "release_date": "2024-04-26",
+    "poster_url": "https://i.mydramalist.com/vXqebq_4c.jpg?v=1",
+    "rating": 8.4
+  },
+  {
+    "id": 87,
+    "name": "Wandee Goodday",
+    "release_date": "2024-05-03",
+    "poster_url": "https://i.mydramalist.com/RBJ26R_4f.jpg",
+    "rating": 8.0
+  },
+  {
+    "id": 88,
+    "name": "My Love Mix-Up",
+    "release_date": "2024-06-07",
+    "poster_url": "https://i.mydramalist.com/wJe8dJ_4c.jpg?v=1",
+    "rating": 7.9
+  },
+  {
+    "id": 89,
+    "name": "We Are",
+    "release_date": "2024-07-17",
+    "poster_url": "https://i.mydramalist.com/jQ21Rw_4c.jpg?v=1",
+    "rating": 8.1
+  },
+  {
+    "id": 90,
+    "name": "Two Worlds",
+    "release_date": "2024-08-15",
+    "poster_url": "https://i.mydramalist.com/1wE3eR_4c.jpg?v=1",
+    "rating": 7.4
+  },
+  {
+    "id": 91,
+    "name": "Love Sea",
+    "release_date": "2024-06-09",
+    "poster_url": "https://i.mydramalist.com/qYw4mB_4c.jpg?v=1",
+    "rating": 7.9
+  },
+  {
+    "id": 92,
+    "name": "The Rebound",
+    "release_date": "2024-06-26",
+    "poster_url": "https://i.mydramalist.com/1wzX5K_4c.jpg?v=1",
+    "rating": 7.8
+  },
+  {
+    "id": 93,
+    "name": "Century of Love",
+    "release_date": "2024-01-10",
+    "poster_url": "https://i.mydramalist.com/RBXw3z_4c.jpg?v=1",
+    "rating": 8.4
+  },
+  {
+    "id": 94,
+    "name": "Perfect 10 Liners",
+    "release_date": "2024-10-27",
+    "poster_url": "https://i.mydramalist.com/73XAvy_4c.jpg?v=1",
+    "rating": 8.6
+  },
+  {
+    "id": 95,
+    "name": "Kidnap",
+    "release_date": "2024-08-02",
+    "poster_url": "https://i.mydramalist.com/Z8QP41_4c.jpg?v=1",
+    "rating": 7.3
+  },
+  {
+    "id": 96,
+    "name": "The Trainee",
+    "release_date": "2024-07-14",
+    "poster_url": "https://i.mydramalist.com/4ej01w_4c.jpg?v=1",
+    "rating": 7.7
+  },
+  {
+    "id": 97,
+    "name": "4 Minutes",
+    "release_date": "2024-07-26",
+    "poster_url": "https://i.mydramalist.com/d0JLwb_4c.jpg?v=1",
+    "rating": 8.2
+  },
+  {
+    "id": 98,
+    "name": "This Love Doesn't Have Long Beans",
+    "release_date": "2024-08-08",
+    "poster_url": "https://i.mydramalist.com/rNx5jp_4c.jpg?v=1",
+    "rating": 8.1
+  },
+  {
+    "id": 99,
+    "name": "Jack & Joker: U Steal my Heart",
+    "release_date": "2024-08-12",
+    "poster_url": "https://i.mydramalist.com/pdrn7r_4c.jpg?v=1",
+    "rating": 8.8
+  },
+  {
+    "id": 100,
+    "name": "ThamePo: Heart That Skips a Beat",
+    "release_date": "2024-12-13",
+    "poster_url": "https://i.mydramalist.com/ABoyDE_4c.jpg?v=1",
+    "rating": 8.5
+  },
+  {
+    "id": 101,
+    "name": "Spare Me Your Mercy",
+    "release_date": "2024-12-25",
+    "poster_url": "https://i.mydramalist.com/YYqojz_4c.jpg?v=1",
+    "rating": 8.2
+  },
+  {
+    "id": 102,
+    "name": "Your Sky",
+    "release_date": "2024-11-17",
+    "poster_url": "https://i.mydramalist.com/nO2VO6_4c.jpg?v=1",
+    "rating": 8.2
+  },
+  {
+    "id": 103,
+    "name": "High School Frenemy",
+    "release_date": "2024-04-12",
+    "poster_url": "https://i.mydramalist.com/zBrmeJ_4c.jpg?v=1",
+    "rating": 8.9
+  },
+  {
+    "id": 104,
+    "name": "The Heart Killers",
+    "release_date": "2024-01-22",
+    "poster_url": "https://i.mydramalist.com/l0QNk4_4c.jpg?v=1",
+    "rating": 8.0
+  },
+  {
+    "id": 105,
+    "name": "Ossan's Love Thailand",
+    "release_date": "2025-01-06",
+    "poster_url": "https://i.mydramalist.com/mOPoD0_4c.jpg?v=1",
+    "rating": 7.6
+  },
+  {
+    "id": 106,
+    "name": "Flirt Milk",
+    "release_date": "2025-01-25",
+    "poster_url": "https://i.mydramalist.com/DkJrnr_4c.jpg?v=1",
+    "rating": 6.4
+  },
+  {
+    "id": 107,
+    "name": "The Boy Next Word",
+    "release_date": "2025-01-05",
+    "poster_url": "https://i.mydramalist.com/VXoXrJ_4c.jpg?v=1",
+    "rating": 7.5
+  },
+  {
+    "id": 108,
+    "name": "Gel Boys",
+    "release_date": "2025-02-08",
+    "poster_url": "https://i.mydramalist.com/5v8bd4_4c.jpg?v=1",
+    "rating": 8.6
+  },
+  {
+    "id": 109,
+    "name": "My Golden Blood",
+    "release_date": "2025-03-12",
+    "poster_url": "https://i.mydramalist.com/NdbzjE_4c.jpg?v=1",
+    "rating": 7.8
+  },
+  {
+    "id": 110,
+    "name": "Sweet Tooth, Good Dentist",
+    "release_date": "2025-03-21",
+    "poster_url": "https://i.mydramalist.com/VXlvnv_4c.jpg?v=1",
+    "rating": 7.5
+  },
+  {
+    "id": 111,
+    "name": "Top Form",
+    "release_date": "2025-03-20",
+    "poster_url": "https://i.mydramalist.com/mOZkoP_4c.jpg?v=1",
+    "rating": 8.7
+  },
+  {
+    "id": 112,
+    "name": "My Stubborn",
+    "release_date": "2025-04-20",
+    "poster_url": "https://i.mydramalist.com/b35A8j_4c.jpg?v=1",
+    "rating": 7.6
+  },
+  {
+    "id": 113,
+    "name": "Boys in Love",
+    "release_date": "2025-04-20",
+    "poster_url": "https://i.mydramalist.com/zB2z5e_4c.jpg?v=1",
+    "rating": 8.4
+  },
+  {
+    "id": 114,
+    "name": "The Bangkok Boy",
+    "release_date": "2025-04-26",
+    "poster_url": "https://i.mydramalist.com/5vPb04_4c.jpg?v=1",
+    "rating": 7.8
+  },
+  {
+    "id": 115,
+    "name": "Knock Out",
+    "release_date": "2025-06-06",
+    "poster_url": "https://i.mydramalist.com/oQ1p3Y_4c.jpg?v=1",
+    "rating": 8.0
+  },
+  {
+    "id": 116,
+    "name": "The Next Prince",
+    "release_date": "2025-05-03",
+    "poster_url": "https://i.mydramalist.com/VXe2ZL_4c.jpg?v=1",
+    "rating": 8.3
+  },
+  {
+    "id": 117,
+    "name": "My SweetHeart Jom",
+    "release_date": "2025-04-26",
+    "poster_url": "https://i.mydramalist.com/YYzQ7A_4c.jpg?v=1",
+    "rating": 7.7
+  },
+  {
+    "id": 118,
+    "name": "Pit Babe Season 2",
+    "release_date": "2025-05-02",
+    "poster_url": "https://i.mydramalist.com/ABAjWZ_4c.jpg?v=1",
+    "rating": 8.0
+  },
+  {
+    "id": 119,
+    "name": "The Ex-Morning",
+    "release_date": "2025-05-22",
+    "poster_url": "https://i.mydramalist.com/Pxj2oX_4c.jpg?v=1",
+    "rating": 8.3
+  },
+  {
+    "id": 120,
+    "name": "Reset",
+    "release_date": "2025-06-01",
+    "poster_url": "https://i.mydramalist.com/YY5rVK_4c.jpg?v=1",
+    "rating": 8.3
+  },
+  {
+    "id": 121,
+    "name": "Memoir of Rati",
+    "release_date": "2025-05-22",
+    "poster_url": "https://i.mydramalist.com/NdL3KA_4c.jpg?v=1",
+    "rating": null
+  }
+]
