@@ -23,3 +23,17 @@ A beautiful and responsive web application for browsing and discovering Thai Boy
 3. **Favorite:** Click the heart icon on any drama card to add it to your personal favorites list. Click it again to remove it.
 
 4. **View Favorites:** A dedicated section or filter allows you to see all the dramas you've marked as a favorite.
+
+## Images
+
+### Home Page
+![image](https://github.com/user-attachments/assets/82bfa59b-7e8e-46a6-946d-d08757f80abd)
+
+### Search
+![image](https://github.com/user-attachments/assets/2e7d607c-cea8-4635-8048-60c380284b83)
+
+### Favorites Page
+![image](https://github.com/user-attachments/assets/7db62e4b-bfda-4bdc-91d4-bb925eedf4cb)
+
+
+
